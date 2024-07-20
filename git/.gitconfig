@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Cody G
+	email = codymgibbs@pm.me
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
