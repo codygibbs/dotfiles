@@ -1,8 +1,8 @@
-# This is Git's per-user configuration file.
 [user]
-# Please adapt and uncomment the following lines:
-	name = Cody G
-	email = codymgibbs@pm.me
+	email = codymgibbs@protonmail.com
+	name = Cody
+[pull]
+	rebase = true
 [core]
 	editor = vim
 [init]
